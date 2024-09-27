@@ -1,0 +1,15 @@
+{
+	"header": {
+		"title": "코딩 테스트"
+	},
+	"error": {
+		"emptyMessage": "메시지를 비울 수 없습니다.",
+		"sendFailed": "메시지를 보내는 데 실패했습니다. 다시 시도해 주세요."
+	},
+	"placeholder": {
+		"enterMessage": "메시지를 입력하세요..."
+	},
+	"button": {
+		"send": "보내기"
+	}
+}

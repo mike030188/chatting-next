@@ -1,0 +1,15 @@
+{
+	"header": {
+		"title": "Coding Test"
+	},
+	"error": {
+		"emptyMessage": "Message cannot be empty.",
+		"sendFailed": "Failed to send message. Please try again."
+	},
+	"placeholder": {
+		"enterMessage": "Enter your message..."
+	},
+	"button": {
+		"send": "Send"
+	}
+}
